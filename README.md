@@ -1,62 +1,74 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faith Adebayo
-=====================================================================================================================================
+<div align="center">
+  <a href="https://muyiwa.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Faith+Adebayo;Fullstack+Software+Engineer;Mechatronics+Engineer;Bridging+Hardware+%26+Software" alt="Typing SVG" />
+  </a>
+</div>
 
-Web Developer || Web Designer
------------------------------
-
-A learning freak and lover of great doings 😝 with over 2 years of learning experience! Built Projects across several platforms and tech stacks. It's been over two years of real learning and amazing growth most especially in the later few months. 🤭
-
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [MyPortfolio](http://dev-faith.netlify.app)
-* ✉️  You can contact me at [adebayofaith0@gmail.com](mailto:adebayofaith0@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Web development
-* ⚡  I'm secretly a C#/unity Game Dev, shushhh. I don't say this everywhere. 🤫
-
-<a href="https://www.twitter.com/FaithMuyiwa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/FaithMuyiwa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-/></a><a href="https://www.github.com/Dev-Faith" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dev-Faith?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="mailto:adebayofaith0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://muyiwa.dev"><img src="https://img.shields.io/badge/Portfolio-muyiwa.dev-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/adebayo-faith-eyitope-1b4502185/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.twitter.com/FaithMuyiwa"><img src="https://img.shields.io/badge/Twitter-Follow-0891b2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 </p>
 
+---
 
-### Socials
+### 👨‍💻 The Architecture
 
-<p align="left"> <a href="https://discord.com/users/FaithAdebayo7331" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dev-Faith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://dev-faith.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/faith-adebayo-724544220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/FaithMuyiwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+* 🚀 **Currently Building:** Architecting scalable applications as a Founding Engineer @ **BridgePay**.
+* ⚡ **Experience:** **4+ years** of designing full-cycle ecosystems—building both the mobile applications and the backend servers independently from the ground up.
+* 🧠 **Hardware & Systems:** Deeply invested in Mechatronics, working heavily with microcontrollers, specifically **Raspberry Pi**, and writing algorithms for physical control systems.
+* 🎵 **Off-Screen:** When I'm not writing code or mapping out pin-to-pin wiring, I'm likely mixing vocals in FL Studio or secretly building C#/Unity games. 🤫
 
-### Badges
+<br />
 
-<b>My GitHub Stats</b>
+### 🛠️ The Stack
 
-<a href="http://www.github.com/Dev-Faith"><img src="https://github-readme-stats.vercel.app/api?username=Dev-Faith&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Dev-Faith's GitHub stats" /></a>
+<div align="center">
+  
+**Frontend & Mobile Architecture**<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-<a href="http://www.github.com/Dev-Faith"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Faith&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/><br/>**Backend & Data Management**<br/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
-<a href="http://www.github.com/Dev-Faith"><img src="https://activity-graph.herokuapp.com/graph?username=Dev-Faith&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br/><br/>**Mechatronics & Embedded Systems**<br/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 
-<a href="https://github.com/Dev-Faith" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Faith&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
+<br />
 
+---
 
+### 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Faith&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=181824&text_color=ffffff" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Faith&hide_border=true&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="49%" alt="GitHub Streak" />
+</div>
 
+<br />
 
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dev-Faith&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=Commit%20Activity" width="100%" alt="Activity Graph" />
+</div>
 
+<br />
 
-
+<div align="center">
+  <i>Find me hanging out on <a href="https://discord.com/users/FaithAdebayo7331">Discord</a> or writing about tech on <a href="https://dev-faith.hashnode.dev">Hashnode</a>. Let's build something.</i>
+</div>
