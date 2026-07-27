@@ -15,7 +15,7 @@
 
 ### 👨‍💻 The Architecture
 
-* 🚀 **Currently Building:** Architecting scalable applications as a Founding Engineer @ **BridgePay**.
+* 🚀 **Currently Building:** Architecting scalable applications as a Fullstack Engineer @ **BridgePay**.
 * ⚡ **Experience:** **4+ years** of designing full-cycle ecosystems—building both the mobile applications and the backend servers independently from the ground up.
 * 🧠 **Hardware & Systems:** Deeply invested in Mechatronics, working heavily with microcontrollers, specifically **Raspberry Pi**, and writing algorithms for physical control systems.
 * 🎵 **Off-Screen:** When I'm not writing code or mapping out pin-to-pin wiring, I'm likely mixing vocals in FL Studio or secretly building C#/Unity games. 🤫
